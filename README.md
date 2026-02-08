@@ -4,6 +4,8 @@ I am an associate professor of physics at the [University of Colorado, Boulder](
 focuses on theoretical particle physics, with an emphasis on strongly-interacting systems like quantum chromodynamics.  These
 systems are difficult to solve by hand, so I use large-scale computing for my research (mainly lattice gauge theory.)
 
+I am a member of the [Fermilab Lattice/MILC](https://inspirehep.net/experiments/1228416?ui-citation-summary=true) and [Lattice Strong Dynamics](https://inspirehep.net/experiments/2658791?ui-citation-summary=true) (LSD) research collaborations.
+
 ### ⚛️ Research 
 
 You can find my published work through my author pages:

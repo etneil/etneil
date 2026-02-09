@@ -6,6 +6,8 @@ systems are difficult to solve by hand, so I use large-scale computing for my re
 
 I am a member of the [Fermilab Lattice/MILC](https://inspirehep.net/experiments/1228416?ui-citation-summary=true) and [Lattice Strong Dynamics](https://inspirehep.net/experiments/2658791?ui-citation-summary=true) (LSD) research collaborations.
 
+My CV and more information can be found on my [CU Experts page](https://experts.colorado.edu/display/fisid_153411).
+
 ### ⚛️ Research 
 
 You can find my published work through my author pages:
